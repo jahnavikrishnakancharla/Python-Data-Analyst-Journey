@@ -1,0 +1,7 @@
+# ==========================================
+# Project: Student Information Card
+# Day 1 Mini Project
+# ==========================================
+
+# No external Python libraries are required.
+# This project uses only Python built-in functions.
