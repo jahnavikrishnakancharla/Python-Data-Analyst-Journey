@@ -1,4 +1,0 @@
-# Day 2 Calculator Project
-# No external Python libraries are required.
-
-python>=3.10
