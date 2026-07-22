@@ -1,0 +1,12 @@
+Python 3.x
+
+Libraries Used:
+- None (Built-in Python only)
+
+Concepts Covered:
+- if statement
+- if-else statement
+- if-elif-else statement
+- Comparison Operators
+- Logical Operators (and)
+- User Input
